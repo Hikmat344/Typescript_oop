@@ -45,7 +45,7 @@ const obj1 = new welcome();
 class Rdonly{
         readonly d!: number;        // now this can only be chnge with in the class constructor , but we can't change it from outside the class by class object
         e!: number;
-        constructor(z:number , a:number)
+        constructor(z:number , a:number) //consructor
         {
             this.d = z;
             this.e = a;

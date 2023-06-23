@@ -49,7 +49,7 @@ class Rdonly{
         {
             this.d = z;
             this.e = a;
-            console.log("x: " + this.d ,"y: "+ this.e )
+            console.log(" x " + this.d ,"y: "+ this.e )
         }
     }
     
